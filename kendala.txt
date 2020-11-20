@@ -1,0 +1,4 @@
+1. Setiap register jika district nya tidak diisi data nya akan tetap masuk ke database
+2. Saat melakukan login apabila salah sebanyak 2 kali maka akan error dan sistem harus diulang dahulu
+3. Dilaptop ini kadang id role nya berubah-ubah karena keseringan didelete databasenya sehingga pastikan pada setiap 
+    controller yang ngeget role tertentu untuk idnya disamakan sesuai dengan role yang ada di database
